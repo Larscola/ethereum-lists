@@ -1,0 +1,26 @@
+{
+  "symbol": "WWish",
+  "name": "Wrapped Wish",
+  "type": "ERC20",
+  "address": "0xd123575d94a7ad9bff3ad037ae9d4d52f41a7518",
+  "ens_address": "",
+  "decimals": 8,
+  "website": "https://mywish.io",
+  "logo": { "src": "https://raw.githubusercontent.com/Larscola/SourceFolder/main/WISH%20logo/WWISH%20256x256.png", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "support@mywish.io", "url": "" },
+  "social": {
+    "blog": "https://cryptomywish.medium.com",
+    "chat": "",
+    "facebook": "https://facebook.com/MyWish.io/",
+    "forum": "",
+    "github": "https://github.com/mywishplatform",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://reddit.com/r/mywishteam",
+    "slack": "",
+    "telegram": "https://t.me/MyWish_platform",
+    "twitter": "https://twitter.com/mywishplatform",
+    "youtube": "https://www.youtube.com/channel/UCBL6_ojQyXqgHRFRqB-ei-w"
+  }
+}
